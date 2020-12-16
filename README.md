@@ -6,7 +6,7 @@
 
 A simple app that allows the user to sort an employee directory or search.
 
-Link to live site: [budget-tracker](https://safe-tundra-10565.herokuapp.com/)
+Link to live site: [user-directory](https://toveson.github.io/user-directory/)
 
 ![user-directory](public/imgs/user-directory.PNG)
 
